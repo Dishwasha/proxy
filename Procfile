@@ -1,1 +1,1 @@
-web: bundle exec ruby proxy.rb 80
+web: bundle exec ruby proxy.rb 25
